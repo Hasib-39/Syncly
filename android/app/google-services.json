@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344794286642",
+    "project_id": "syncly-725b8",
+    "storage_bucket": "syncly-725b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344794286642:android:29c189898384c6dd36ca2b",
+        "android_client_info": {
+          "package_name": "com.hasib.syncly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5na3syxV1UezLsqCE0k6--xrRyk5yRGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
